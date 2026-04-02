@@ -11,7 +11,7 @@
       "id": "505071508851523599"
     }
   ],
-  "service": "osu!ppy",
+  "service": "osu ppy",
   "description": {
     "de": "Der Rhythmus ist nur einen *Klick* entfernt!  Mit Ouendan/EBA, Taiko und eigenen Spielmodi, zusätzlich zu einem voll funktionalen Leveleditor",
     "en": "Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.",
@@ -35,7 +35,7 @@
   },
   "url": "osu.ppy.sh",
   "regExp": "^https?[:][/][/]osu[.]ppy[.]sh[/]",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "logo": "https://cdn.rcd.gg/PreMiD/websites/O/osu%20ppy/assets/logo.png",
   "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/osu%20ppy/assets/thumbnail.png",
   "color": "#FF66AA",
